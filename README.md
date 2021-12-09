@@ -4,12 +4,12 @@
 
 This is the code repository for my article on Medium - [Playing Games with Python - Tic Tac Toe](https://towardsdatascience.com/lets-beat-games-using-a-bunch-of-code-part-1-tic-tac-toe-1543e981fec1), where I have tried to take the famous Tic-Tac-Toe game and create a bot proficient enough to beat human players, if not the game itself.
 
-## What's inside this repo?
+## What's inside this repositry?
 - A fully playable Tic-Tac-Toe environment.
 - A bot trained using Temporal Difference learning (A technique in Reinforcement learning). 
 - A bot trained using the Minimax Algorithm.
 
-## How to use
+## How to use this ?
 
 ### Play against the RL bot
 run ``` python testing_(HumanvsAI)_ReinforcementLearning.py```
